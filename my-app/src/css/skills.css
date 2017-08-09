@@ -1,0 +1,32 @@
+.skills{
+  text-align: center;
+}
+.paragraph{
+  margin: 15px;
+  font-size: 18px;
+  font-family: "Open Sans";
+  font-weight: lighter;
+}
+
+.progress-bar{
+  text-align: center;
+  width: 20%;
+  margin: auto;
+}
+
+.line{
+  text-align: center;
+  width: 40%;
+  margin: auto;
+}
+
+.container-language{
+  margin: 15px auto;
+}
+
+.copyright{
+  margin : 20px;
+  padding: 20px;
+  text-align: center;
+  font-size: small;
+}
